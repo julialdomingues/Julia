@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7df00a85-4571-4d18-805e-6c17bcb2bfbf/deploy-status)](https://app.netlify.com/projects/julialdomingues/deploys)
+
 [![Build Status](https://api.travis-ci.org/puikinsh/Activello.svg?branch=master)](https://travis-ci.org/puikinsh/Activello)
 
 # Repository clone/download :fire: :fire: :fire:
